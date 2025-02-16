@@ -21,6 +21,27 @@ Output: 2, nums1 = [1 2]
 Output: 8, nums2 = [0 1 2 3 4 5 6 7]
 ```
 
+
+🏗 **Remove Element**
+
+Given an integer array nums and an integer val, remove all occurrences of val in nums in-place. The order of the elements may be changed. Then return the number of elements in nums which are not equal to val.
+
+📌 *Example Execution*
+
+```bash
+go run cmd/remove_element.go
+```
+
+📜 *Sample Output*
+
+```bash
+Input: nums = [3 2 2 3], val = 3
+Output: 2, nums = [2 2]
+
+Input: nums = [0 1 2 2 3 0 4 2], val = 2
+Output: 5, nums = [0 1 3 0 4]
+```
+
 🤝 **Contribution**
 
 We welcome contributions! If you’d like to enhance the repository, you can:
