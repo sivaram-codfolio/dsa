@@ -29,12 +29,12 @@ func main() {
 	target := 5
 	fmt.Println(searchInsert(nums, target)) // Output: 2
 
-	// target = 2
-	// fmt.Println(searchInsert(nums, target)) // Output: 1
+	target = 2
+	fmt.Println(searchInsert(nums, target)) // Output: 1
 
-	// target = 7
-	// fmt.Println(searchInsert(nums, target)) // Output: 4
+	target = 7
+	fmt.Println(searchInsert(nums, target)) // Output: 4
 
-	// target = 0
-	// fmt.Println(searchInsert(nums, target)) // Output: 0
+	target = 0
+	fmt.Println(searchInsert(nums, target)) // Output: 0
 }

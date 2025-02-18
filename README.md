@@ -42,6 +42,25 @@ Input: nums = [0 1 2 2 3 0 4 2], val = 2
 Output: 5, nums = [0 1 3 0 4]
 ```
 
+🏗 **Search Insert Position**
+
+The Search Insert Position problem is about finding the index at which a target value should be inserted into a sorted array, such that the array remains sorted.
+
+📌 *Example Execution*
+
+```bash
+go run cmd/search_insert_position.go
+```
+
+📜 *Sample Output*
+
+```bash
+2
+1
+4
+0
+```
+
 🤝 **Contribution**
 
 We welcome contributions! If you’d like to enhance the repository, you can:
