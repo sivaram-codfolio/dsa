@@ -61,6 +61,23 @@ go run cmd/search_insert_position.go
 0
 ```
 
+🏗 **Length of Last Word**
+
+Given a string s consisting of words and spaces, return the length of the last word in the string. A word is a maximal substring consisting of non-space characters only.
+
+📌 *Example Execution*
+
+```bash
+go run cmd/length_last_word.go
+```
+
+📜 *Sample Output*
+
+```bash
+5
+6
+```
+
 🤝 **Contribution**
 
 We welcome contributions! If you’d like to enhance the repository, you can:
