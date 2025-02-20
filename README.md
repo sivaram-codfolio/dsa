@@ -78,6 +78,24 @@ go run cmd/length_last_word.go
 6
 ```
 
+🏗 **Plus One**
+
+You are given a large integer represented as an integer array digits, where each digits[i] is the ith digit of the integer. The digits are ordered from most significant to least significant in left-to-right order. The large integer does not contain any leading 0's.
+
+📌 *Example Execution*
+
+```bash
+go run cmd/plus_one.go
+```
+
+📜 *Sample Output*
+
+```bash
+[1 3 0]
+[4 3 2 2]
+[1 0]
+```
+
 🤝 **Contribution**
 
 We welcome contributions! If you’d like to enhance the repository, you can:
