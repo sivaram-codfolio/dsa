@@ -96,6 +96,25 @@ go run cmd/plus_one.go
 [1 0]
 ```
 
+🏗 **Add Binary**
+
+Given two binary strings a and b, return their sum as a binary string.
+
+📌 *Example Execution*
+
+```bash
+go run cmd/add_binary.go
+```
+
+📜 *Sample Output*
+
+```bash
+100
+10101
+0
+1000
+```
+
 🤝 **Contribution**
 
 We welcome contributions! If you’d like to enhance the repository, you can:
