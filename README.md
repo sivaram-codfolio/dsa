@@ -115,6 +115,26 @@ go run cmd/add_binary.go
 1000
 ```
 
+🏗 **Sqrt(x)**
+
+Given a non-negative integer x, return the square root of x rounded down to the nearest integer. The returned integer should be non-negative as well.
+
+📌 *Example Execution*
+
+```bash
+go run cmd/sqrt.go
+```
+
+📜 *Sample Output*
+
+```bash
+2
+2
+4
+1
+0
+```
+
 🤝 **Contribution**
 
 We welcome contributions! If you’d like to enhance the repository, you can:
