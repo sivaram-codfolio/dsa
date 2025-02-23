@@ -135,6 +135,23 @@ go run cmd/sqrt.go
 0
 ```
 
+🏗 **Longest Palindromic String**
+
+Given a string s, return the longest 
+`palindromic substring` in s.
+
+📌 *Example Execution*
+
+```bash
+go run cmd/longest_palindromic_string.go
+```
+
+📜 *Sample Output*
+
+```bash
+Longest Palindromic Substring: bab
+```
+
 🤝 **Contribution**
 
 We welcome contributions! If you’d like to enhance the repository, you can:
