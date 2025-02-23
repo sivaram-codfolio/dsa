@@ -137,8 +137,7 @@ go run cmd/sqrt.go
 
 🏗 **Longest Palindromic String**
 
-Given a string s, return the longest 
-`palindromic substring` in s.
+Given a string s, return the longest `palindromic substring` in s.
 
 📌 *Example Execution*
 
@@ -150,6 +149,26 @@ go run cmd/longest_palindromic_string.go
 
 ```bash
 Longest Palindromic Substring: bab
+```
+
+
+🏗 **Median of Two Sorted Array**
+
+Given two sorted arrays nums1 and nums2 of size m and n respectively, return the median of the two sorted arrays.
+
+The overall run time complexity should be O(log (m+n)).
+
+📌 *Example Execution*
+
+```bash
+go run cmd/median_of_two_sorted_array.go
+```
+
+📜 *Sample Output*
+
+```bash
+Median: 2
+Median: 2.5
 ```
 
 🤝 **Contribution**
