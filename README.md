@@ -151,7 +151,6 @@ go run cmd/longest_palindromic_string.go
 Longest Palindromic Substring: bab
 ```
 
-
 🏗 **Median of Two Sorted Array**
 
 Given two sorted arrays nums1 and nums2 of size m and n respectively, return the median of the two sorted arrays.
@@ -169,6 +168,25 @@ go run cmd/median_of_two_sorted_array.go
 ```bash
 Median: 2
 Median: 2.5
+```
+
+🏗 **Reverse Integer**
+
+Given a signed 32-bit integer x, return x with its digits reversed. If reversing x causes the value to go outside the signed 32-bit integer range [-231, 231 - 1], then return 0.
+
+📌 *Example Execution*
+
+```bash
+go run cmd/reverse_integer.go
+```
+
+📜 *Sample Output*
+
+```bash
+321
+-321
+21
+0
 ```
 
 🤝 **Contribution**
