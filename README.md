@@ -189,6 +189,24 @@ go run cmd/reverse_integer.go
 0
 ```
 
+🏗 **3Sum**
+
+Given an integer array nums, return all the triplets [nums[i], nums[j], nums[k]] such that i != j, i != k, and j != k, and nums[i] + nums[j] + nums[k] == 0.
+
+📌 *Example Execution*
+
+```bash
+go run cmd/3sum.go
+```
+
+📜 *Sample Output*
+
+```bash
+[[-1 -1 2] [-1 0 1]]
+[]
+[[0 0 0]]
+```
+
 🤝 **Contribution**
 
 We welcome contributions! If you’d like to enhance the repository, you can:
