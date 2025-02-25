@@ -12,8 +12,6 @@ func mergeTwoLists(list1 *ListNode, list2 *ListNode) *ListNode {
 	current := dummy
 
 	for list1 != nil && list2 != nil {
-		fmt.Println("list1 :: ", list1)
-		fmt.Println("list2 :: ", list2)
 		if list1.Val < list2.Val {
 			current.Next = list1
 			list1 = list1.Next
@@ -21,9 +19,7 @@ func mergeTwoLists(list1 *ListNode, list2 *ListNode) *ListNode {
 			current.Next = list2
 			list2 = list2.Next
 		}
-		fmt.Println("current.Next :: ", current.Next)
 		current = current.Next
-		fmt.Println("current :: ", current)
 	}
 
 	if list1 != nil {
@@ -37,10 +33,8 @@ func mergeTwoLists(list1 *ListNode, list2 *ListNode) *ListNode {
 
 func printList(head *ListNode) {
 	for head != nil {
-		fmt.Print(head.Val, " -> ")
 		head = head.Next
 	}
-	fmt.Println("nil")
 }
 
 func main() {
