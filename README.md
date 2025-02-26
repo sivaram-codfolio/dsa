@@ -20,6 +20,22 @@ go run cmd/sort/bubble.go
 [1 1 2 3 4 5 6 9]
 ```
 
+🏗 **Quick - Bubble**
+
+Given an integer array nums sorted in non-decreasing order.
+
+📌 *Example Execution*
+
+```bash
+go run cmd/sort/quick.go
+```
+
+📜 *Sample Output*
+
+```bash
+[1 1 2 3 4 5 6 9]
+```
+
 🏗 **Duplicate Sorted Array**
 
 Given an integer array nums sorted in non-decreasing order, remove the duplicates in-place such that each unique element appears only once. The relative order of the elements should be kept the same. Then return the number of unique elements in nums.
