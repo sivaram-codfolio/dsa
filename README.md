@@ -238,6 +238,27 @@ go run cmd/3sum.go
 [[0 0 0]]
 ```
 
+🏗 **Container With Most Water**
+
+You are given an integer array height of length n. There are n vertical lines drawn such that the two endpoints of the ith line are (i, 0) and (i, height[i]).
+
+Find two lines that together with the x-axis form a container, such that the container contains the most water.
+
+Return the maximum amount of water a container can store.
+
+📌 *Example Execution*
+
+```bash
+go run cmd/container_with_most_water.go
+```
+
+📜 *Sample Output*
+
+```bash
+49
+1
+```
+
 🤝 **Contribution**
 
 We welcome contributions! If you’d like to enhance the repository, you can:
