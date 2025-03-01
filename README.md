@@ -287,7 +287,6 @@ go run cmd/string_to_integer.go
 -2147483648
 ```
 
-
 🏗 **Integer to Roman**
 
 Roman numerals are formed by appending the conversions of decimal place values from highest to lowest. Converting a decimal place value into a Roman numeral has the following rules:
@@ -309,6 +308,23 @@ go run cmd/integer_to_roman.go
 III
 LVIII
 MCMXCIV
+```
+
+🏗 **Generate Parentheses**
+
+Given n pairs of parentheses, write a function to generate all combinations of well-formed parentheses.
+
+📌 *Example Execution*
+
+```bash
+go run cmd/generate_parentheses.go
+```
+
+📜 *Sample Output*
+
+```bash
+[((())) (()()) (())() ()(()) ()()()]
+[()]
 ```
 
 🤝 **Contribution**
