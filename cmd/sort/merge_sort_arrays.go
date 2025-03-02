@@ -16,8 +16,6 @@ func bubbleSorting(arr []int) {
 func mergeSortedArrays(arr1, arr2 []int) []int {
 	bubbleSorting(arr1)
 	bubbleSorting(arr2)
-	fmt.Println("arr1 :: ", arr1)
-	fmt.Println("arr2 :: ", arr2)
 
 	i, j := 0, 0
 	result := make([]int, 0, len(arr1)+len(arr2))
