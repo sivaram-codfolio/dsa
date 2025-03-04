@@ -389,6 +389,25 @@ go run cmd/divide_two_integers.go
 2147483647
 ```
 
+🏗 **Majority Element**
+
+Given an array nums of size n, return the majority element.
+
+The majority element is the element that appears more than ⌊n / 2⌋ times. You may assume that the majority element always exists in the array.
+
+📌 *Example Execution*
+
+```bash
+go run cmd/majority_element.go
+```
+
+📜 *Sample Output*
+
+```bash
+3
+2
+```
+
 🤝 **Contribution**
 
 We welcome contributions! If you’d like to enhance the repository, you can:
