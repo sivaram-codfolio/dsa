@@ -433,6 +433,27 @@ go run cmd/valid_sudoku.go
 true
 ```
 
+
+🏗 **Intersection of Two Linked Lists**
+
+Given the heads of two singly linked-lists headA and headB, return the node at which the two lists intersect. If the two linked lists have no intersection at all, return null.
+
+📌 *Example Execution*
+
+```bash
+go run cmd/intersection_of_two_linked_lists.go
+```
+
+📜 *Sample Output*
+
+```bash
+List A:
+4 -> 1 -> 8 -> 4 -> 5 -> nil
+List B:
+5 -> 6 -> 1 -> 8 -> 4 -> 5 -> nil
+Intersection at node with value: 8
+```
+
 🤝 **Contribution**
 
 We welcome contributions! If you’d like to enhance the repository, you can:
