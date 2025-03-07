@@ -433,7 +433,6 @@ go run cmd/valid_sudoku.go
 true
 ```
 
-
 🏗 **Intersection of Two Linked Lists**
 
 Given the heads of two singly linked-lists headA and headB, return the node at which the two lists intersect. If the two linked lists have no intersection at all, return null.
@@ -452,6 +451,26 @@ List A:
 List B:
 5 -> 6 -> 1 -> 8 -> 4 -> 5 -> nil
 Intersection at node with value: 8
+```
+
+🏗 **Climbing Stairs**
+
+You are climbing a staircase. It takes n steps to reach the top.
+
+Each time you can either climb 1 or 2 steps. In how many distinct ways can you climb to the top?
+
+📌 *Example Execution*
+
+```bash
+go run cmd/climbing_stairs.go
+```
+
+📜 *Sample Output*
+
+```bash
+3
+8
+89
 ```
 
 🤝 **Contribution**
