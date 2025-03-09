@@ -473,6 +473,25 @@ go run cmd/climbing_stairs.go
 89
 ```
 
+🏗 **Remove Duplicates from Sorted List**
+
+Given the head of a sorted linked list, delete all duplicates such that each element appears only once. Return the linked list sorted as well.
+
+📌 *Example Execution*
+
+```bash
+go run cmd/remove_duplicate_from_sorted_list.go
+```
+
+📜 *Sample Output*
+
+```bash
+Original List:
+1 → 1 → 2 → 3 → 3 → nil
+List after removing duplicates:
+1 → 2 → 3 → nil
+```
+
 🤝 **Contribution**
 
 We welcome contributions! If you’d like to enhance the repository, you can:
