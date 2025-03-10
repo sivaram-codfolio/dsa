@@ -492,6 +492,24 @@ List after removing duplicates:
 1 → 2 → 3 → nil
 ```
 
+🏗 **Same Tree**
+
+Given the roots of two binary trees p and q, write a function to check if they are the same or not.
+
+Two binary trees are considered the same if they are structurally identical, and the nodes have the same value.
+
+📌 *Example Execution*
+
+```bash
+go run cmd/same_tree.go
+```
+
+📜 *Sample Output*
+
+```bash
+Are the two trees identical? true
+```
+
 🤝 **Contribution**
 
 We welcome contributions! If you’d like to enhance the repository, you can:
