@@ -510,6 +510,25 @@ go run cmd/same_tree.go
 Are the two trees identical? true
 ```
 
+🏗 **Simplify Path**
+
+You are given an absolute path for a Unix-style file system, which always begins with a slash '/'. Your task is to transform this absolute path into its simplified canonical path.
+
+📌 *Example Execution*
+
+```bash
+go run cmd/simplify_path.go
+```
+
+📜 *Sample Output*
+
+```bash
+/home
+/
+/home/foo
+/c
+```
+
 🤝 **Contribution**
 
 We welcome contributions! If you’d like to enhance the repository, you can:
