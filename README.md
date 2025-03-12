@@ -529,6 +529,25 @@ go run cmd/simplify_path.go
 /c
 ```
 
+🏗 **Swap Nodes in Pairs**
+
+Given a linked list, swap every two adjacent nodes and return its head. You must solve the problem without modifying the values in the list's nodes (i.e., only nodes themselves may be changed.)
+
+📌 *Example Execution*
+
+```bash
+go run cmd/simplify_path.go
+```
+
+📜 *Sample Output*
+
+```bash
+/home
+/
+/home/foo
+/c
+```
+
 🤝 **Contribution**
 
 We welcome contributions! If you’d like to enhance the repository, you can:
