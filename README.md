@@ -548,6 +548,28 @@ go run cmd/simplify_path.go
 /c
 ```
 
+🏗 **Regular Expression Matching**
+
+Given an input string s and a pattern p, implement regular expression matching with support for '.' and '*' where:
+
+'.' Matches any single character.​​​​
+'*' Matches zero or more of the preceding element.
+The matching should cover the entire input string (not partial).
+
+📌 *Example Execution*
+
+```bash
+go run cmd/regular_expression_matching.go 
+```
+
+📜 *Sample Output*
+
+```bash
+true
+true
+false
+```
+
 🤝 **Contribution**
 
 We welcome contributions! If you’d like to enhance the repository, you can:
