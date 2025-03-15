@@ -570,6 +570,24 @@ true
 false
 ```
 
+🏗 **Merge k Sorted Lists**
+
+You are given an array of k linked-lists lists, each linked-list is sorted in ascending order.
+
+Merge all the linked-lists into one sorted linked-list and return it.
+
+📌 *Example Execution*
+
+```bash
+go run cmd/merge_k_sorted_lists.go
+```
+
+📜 *Sample Output*
+
+```bash
+1 -> 1 -> 2 -> 3 -> 4 -> 4 -> 5 -> 6 -> nil
+```
+
 🤝 **Contribution**
 
 We welcome contributions! If you’d like to enhance the repository, you can:
