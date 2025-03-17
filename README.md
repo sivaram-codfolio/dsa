@@ -608,6 +608,23 @@ go run cmd/merge_k_sorted_lists.go
 1 -> 1 -> 2 -> 3 -> 4 -> 4 -> 5 -> 6 -> nil
 ```
 
+🏗 **Remove Nth Node From End of List**
+
+Given the head of a linked list, remove the nth node from the end of the list and return its head.
+
+📌 *Example Execution*
+
+```bash
+go run cmd/remove_nth_node_from_end_of_list.go
+```
+
+📜 *Sample Output*
+
+```bash
+Original List: 1 → 2 → 3 → 4 → 5 → nil
+After Removal: 1 → 2 → 3 → 5 → nil
+```
+
 🤝 **Contribution**
 
 We welcome contributions! If you’d like to enhance the repository, you can:
