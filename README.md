@@ -646,6 +646,27 @@ Original List: 1 → 2 → 3 → 4 → 5 → nil
 After k-Reverse: 2 → 1 → 4 → 3 → 5 → nil
 ```
 
+🏗 **4Sum**
+
+Given an array nums of n integers, return an array of all the unique quadruplets [nums[a], nums[b], nums[c], nums[d]] such that:
+
+0 <= a, b, c, d < n
+a, b, c, and d are distinct.
+nums[a] + nums[b] + nums[c] + nums[d] == target
+You may return the answer in any order.
+
+📌 *Example Execution*
+
+```bash
+go run cmd/4sum.go
+```
+
+📜 *Sample Output*
+
+```bash
+[[-2 -1 1 2] [-2 0 0 2] [-1 0 0 1]]
+```
+
 🤝 **Contribution**
 
 We welcome contributions! If you’d like to enhance the repository, you can:
