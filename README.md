@@ -667,6 +667,27 @@ go run cmd/4sum.go
 [[-2 -1 1 2] [-2 0 0 2] [-1 0 0 1]]
 ```
 
+🏗 **Substring with Concatenation of All Words**
+
+You are given a string s and an array of strings words. All the strings of words are of the same length.
+
+A concatenated string is a string that exactly contains all the strings of any permutation of words concatenated.
+
+For example, if words = ["ab","cd","ef"], then "abcdef", "abefcd", "cdabef", "cdefab", "efabcd", and "efcdab" are all concatenated strings. "acdbef" is not a concatenated string because it is not the concatenation of any permutation of words.
+Return an array of the starting indices of all the concatenated substrings in s. You can return the answer in any order.
+
+📌 *Example Execution*
+
+```bash
+go run cmd/substring_with_concatenation_of_all_words.go
+```
+
+📜 *Sample Output*
+
+```bash
+[0 9]
+```
+
 🤝 **Contribution**
 
 We welcome contributions! If you’d like to enhance the repository, you can:
