@@ -688,6 +688,22 @@ go run cmd/substring_with_concatenation_of_all_words.go
 [0 9]
 ```
 
+🏗 **Binary Tree Inorder Traversal**
+
+Given the root of a binary tree, return the inorder traversal of its nodes' values.
+
+📌 *Example Execution*
+
+```bash
+go run cmd/binary_tree_inorder_traversal.go
+```
+
+📜 *Sample Output*
+
+```bash
+[1 3 2]
+```
+
 🤝 **Contribution**
 
 We welcome contributions! If you’d like to enhance the repository, you can:
