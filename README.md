@@ -724,6 +724,24 @@ go run cmd/merge_sorted_array.go
 [1 2 2 3 5 6]
 ```
 
+🏗 **Maximum Depth of Binary Tree**
+
+Given the root of a binary tree, return its maximum depth.
+
+A binary tree's maximum depth is the number of nodes along the longest path from the root node down to the farthest leaf node.
+
+📌 *Example Execution*
+
+```bash
+go run cmd/maximum_depth_of_binary_tree.go
+```
+
+📜 *Sample Output*
+
+```bash
+3
+```
+
 🤝 **Contribution**
 
 We welcome contributions! If you’d like to enhance the repository, you can:
