@@ -760,6 +760,26 @@ go run cmd/pascal_triangle.go
 [[1] [1 1] [1 2 1] [1 3 3 1] [1 4 6 4 1]]
 ```
 
+🏗 **Find First and Last Position of Element in Sorted Array**
+
+Given an array of integers nums sorted in non-decreasing order, find the starting and ending position of a given target value.
+
+If target is not found in the array, return [-1, -1].
+
+You must write an algorithm with O(log n) runtime complexity.
+
+📌 *Example Execution*
+
+```bash
+go run cmd/find_first_and_last_position_element_in_sorted_array.go
+```
+
+📜 *Sample Output*
+
+```bash
+[3 4]
+```
+
 🤝 **Contribution**
 
 We welcome contributions! If you’d like to enhance the repository, you can:
