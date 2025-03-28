@@ -827,6 +827,24 @@ go run cmd/next_permutation.go
 [1 5 1]
 ```
 
+🏗 **Longest Valid Parentheses**
+
+Given a string containing just the characters '(' and ')', return the length of the longest valid (well-formed) parentheses substring.
+
+📌 *Example Execution*
+
+```bash
+go run cmd/longest_valid_parentheses.go
+```
+
+📜 *Sample Output*
+
+```bash
+2
+4
+0
+```
+
 🤝 **Contribution**
 
 We welcome contributions! If you’d like to enhance the repository, you can:
