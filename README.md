@@ -890,6 +890,27 @@ go run cmd/combination_sum.go
 [[2 2 2 2] [2 3 3] [3 5]]
 ```
 
+🏗 **Combination Sum II**
+
+Given a collection of candidate numbers (candidates) and a target number (target), find all unique combinations in candidates where the candidate numbers sum to target.
+
+Each number in candidates may only be used once in the combination.
+
+Note: The solution set must not contain duplicate combinations.
+
+📌 *Example Execution*
+
+```bash
+go run cmd/combination_sum2.go
+```
+
+📜 *Sample Output*
+
+```bash
+[[1 1 6] [1 2 5] [1 7] [2 6]]
+[[1 2 2] [5]]
+```
+
 🤝 **Contribution**
 
 We welcome contributions! If you’d like to enhance the repository, you can:
