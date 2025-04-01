@@ -911,6 +911,26 @@ go run cmd/combination_sum2.go
 [[1 2 2] [5]]
 ```
 
+🏗 **Multiply Strings**
+
+Given two non-negative integers num1 and num2 represented as strings, return the product of num1 and num2, also represented as a string.
+
+Note: You must not use any built-in BigInteger library or convert the inputs to integer directly.
+
+📌 *Example Execution*
+
+```bash
+go run cmd/multiply_strings.go
+```
+
+📜 *Sample Output*
+
+```bash
+56088
+6
+0
+```
+
 🤝 **Contribution**
 
 We welcome contributions! If you’d like to enhance the repository, you can:
