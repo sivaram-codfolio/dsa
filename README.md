@@ -944,7 +944,7 @@ Return the minimum number of jumps to reach nums[n - 1]. The test cases are gene
 📌 *Example Execution*
 
 ```bash
-go run cmd/jumb_game2.go
+go run cmd/jump_game2.go
 ```
 
 📜 *Sample Output*
