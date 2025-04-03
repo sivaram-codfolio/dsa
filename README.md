@@ -954,6 +954,26 @@ go run cmd/jump_game2.go
 2
 ```
 
+🏗 **First Missing Positive**
+
+Given an unsorted integer array nums. Return the smallest positive integer that is not present in nums.
+
+You must implement an algorithm that runs in O(n) time and uses O(1) auxiliary space.
+
+📌 *Example Execution*
+
+```bash
+go run cmd/find_missing_positive.go
+```
+
+📜 *Sample Output*
+
+```bash
+3
+2
+1
+```
+
 🤝 **Contribution**
 
 We welcome contributions! If you’d like to enhance the repository, you can:
