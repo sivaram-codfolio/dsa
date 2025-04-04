@@ -974,6 +974,22 @@ go run cmd/find_missing_positive.go
 1
 ```
 
+🏗 **Permutations**
+
+Given an array nums of distinct integers, return all the possible permutations. You can return the answer in any order.
+
+📌 *Example Execution*
+
+```bash
+go run cmd/permutations.go
+```
+
+📜 *Sample Output*
+
+```bash
+[[1 2 3] [1 3 2] [2 1 3] [2 3 1] [3 2 1] [3 1 2]]
+```
+
 🤝 **Contribution**
 
 We welcome contributions! If you’d like to enhance the repository, you can:
