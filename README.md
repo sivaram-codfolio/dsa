@@ -990,6 +990,22 @@ go run cmd/permutations.go
 [[1 2 3] [1 3 2] [2 1 3] [2 3 1] [3 2 1] [3 1 2]]
 ```
 
+🏗 **Permutations II**
+
+Given a collection of numbers, nums, that might contain duplicates, return all possible unique permutations in any order.
+
+📌 *Example Execution*
+
+```bash
+go run cmd/permutations2.go
+```
+
+📜 *Sample Output*
+
+```bash
+[[1 1 2] [1 2 1] [2 1 1]]
+```
+
 🤝 **Contribution**
 
 We welcome contributions! If you’d like to enhance the repository, you can:
