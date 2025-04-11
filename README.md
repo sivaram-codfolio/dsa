@@ -1024,6 +1024,22 @@ go run cmd/rotate_image.go
 [[7 4 1] [8 5 2] [9 6 3]]
 ```
 
+🏗 **Group Anagrams**
+
+Given an array of strings strs, group the anagrams together. You can return the answer in any order.
+
+📌 *Example Execution*
+
+```bash
+go run cmd/group_anagrams.go
+```
+
+📜 *Sample Output*
+
+```bash
+[[eat tea ate] [tan nat] [bat]]
+```
+
 🤝 **Contribution**
 
 We welcome contributions! If you’d like to enhance the repository, you can:
