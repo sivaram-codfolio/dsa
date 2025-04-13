@@ -1040,6 +1040,24 @@ go run cmd/group_anagrams.go
 [[eat tea ate] [tan nat] [bat]]
 ```
 
+🏗 **Pow(x, n)**
+
+Implement pow(x, n), which calculates x raised to the power n (i.e., xn).
+
+📌 *Example Execution*
+
+```bash
+go run cmd/pow.go
+```
+
+📜 *Sample Output*
+
+```bash
+1024
+9.261000000000001
+0.25
+```
+
 🤝 **Contribution**
 
 We welcome contributions! If you’d like to enhance the repository, you can:
