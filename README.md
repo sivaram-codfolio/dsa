@@ -1086,6 +1086,22 @@ Q...
 .Q..
 ```
 
+🏗 **Maximum Subarray**
+
+Given an integer array nums, find the subarray with the largest sum, and return its sum.
+
+📌 *Example Execution*
+
+```bash
+go run cmd/maximum_sub_array.go
+```
+
+📜 *Sample Output*
+
+```bash
+6
+```
+
 🤝 **Contribution**
 
 We welcome contributions! If you’d like to enhance the repository, you can:
