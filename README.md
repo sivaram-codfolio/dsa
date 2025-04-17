@@ -1102,6 +1102,22 @@ go run cmd/maximum_sub_array.go
 6
 ```
 
+🏗 **Spiral Matrix**
+
+Given an m x n matrix, return all elements of the matrix in spiral order.
+
+📌 *Example Execution*
+
+```bash
+go run cmd/spiral_matrix.go
+```
+
+📜 *Sample Output*
+
+```bash
+[1 2 3 6 9 8 7 4 5]
+```
+
 🤝 **Contribution**
 
 We welcome contributions! If you’d like to enhance the repository, you can:
