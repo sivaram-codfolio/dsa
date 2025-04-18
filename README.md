@@ -1118,6 +1118,29 @@ go run cmd/spiral_matrix.go
 [1 2 3 6 9 8 7 4 5]
 ```
 
+🏗 **Edit Distance**
+
+Given two strings word1 and word2, return the minimum number of operations required to convert word1 to word2.
+
+You have the following three operations permitted on a word:
+
+Insert a character
+Delete a character
+Replace a character
+
+📌 *Example Execution*
+
+```bash
+go run cmd/edit_distance.go
+```
+
+📜 *Sample Output*
+
+```bash
+3
+5
+```
+
 🤝 **Contribution**
 
 We welcome contributions! If you’d like to enhance the repository, you can:
