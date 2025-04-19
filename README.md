@@ -1150,7 +1150,7 @@ Return true if you can reach the last index, or false otherwise.
 📌 *Example Execution*
 
 ```bash
-go run cmd/jumb_game.go
+go run cmd/jump_game.go
 ```
 
 📜 *Sample Output*
