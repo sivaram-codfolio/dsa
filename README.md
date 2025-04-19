@@ -1141,6 +1141,25 @@ go run cmd/edit_distance.go
 5
 ```
 
+🏗 **Jump Game**
+
+You are given an integer array nums. You are initially positioned at the array's first index, and each element in the array represents your maximum jump length at that position.
+
+Return true if you can reach the last index, or false otherwise.
+
+📌 *Example Execution*
+
+```bash
+go run cmd/jumb_game.go
+```
+
+📜 *Sample Output*
+
+```bash
+true
+false
+```
+
 🤝 **Contribution**
 
 We welcome contributions! If you’d like to enhance the repository, you can:
