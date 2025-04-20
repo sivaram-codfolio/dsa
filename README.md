@@ -1160,6 +1160,22 @@ true
 false
 ```
 
+🏗 **Merge Intervals**
+
+Given an array of intervals where intervals[i] = [starti, endi], merge all overlapping intervals, and return an array of the non-overlapping intervals that cover all the intervals in the input.
+
+📌 *Example Execution*
+
+```bash
+go run cmd/merge_intervals.go
+```
+
+📜 *Sample Output*
+
+```bash
+[[1 6] [8 10] [15 18]]
+```
+
 🤝 **Contribution**
 
 We welcome contributions! If you’d like to enhance the repository, you can:
