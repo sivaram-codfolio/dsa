@@ -1199,6 +1199,24 @@ go run cmd/insert_interval.go
 [[1 2] [3 10] [12 16]]
 ```
 
+🏗 **Spiral Matrix II**
+
+Given a positive integer n, generate an n x n matrix filled with elements from 1 to n2 in spiral order.
+
+📌 *Example Execution*
+
+```bash
+go run cmd/spiral_matrix2.go
+```
+
+📜 *Sample Output*
+
+```bash
+[1 2 3]
+[8 9 4]
+[7 6 5]
+```
+
 🤝 **Contribution**
 
 We welcome contributions! If you’d like to enhance the repository, you can:
