@@ -1217,6 +1217,30 @@ go run cmd/spiral_matrix2.go
 [7 6 5]
 ```
 
+🏗 **Gray Code**
+
+An n-bit gray code sequence is a sequence of 2n integers where:
+
+Every integer is in the inclusive range [0, 2n - 1],
+The first integer is 0,
+An integer appears no more than once in the sequence,
+The binary representation of every pair of adjacent integers differs by exactly one bit, and
+The binary representation of the first and last integers differs by exactly one bit.
+Given an integer n, return any valid n-bit gray code sequence.
+
+📌 *Example Execution*
+
+```bash
+go run cmd/gray_code.go
+```
+
+📜 *Sample Output*
+
+```bash
+[0 1 3 2]
+[0 1 3 2 6 7 5 4]
+```
+
 🤝 **Contribution**
 
 We welcome contributions! If you’d like to enhance the repository, you can:
