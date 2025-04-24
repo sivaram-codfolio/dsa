@@ -1241,6 +1241,22 @@ go run cmd/gray_code.go
 [0 1 3 2 6 7 5 4]
 ```
 
+🏗 **Rotate List**
+
+Given the head of a linked list, rotate the list to the right by k places.
+
+📌 *Example Execution*
+
+```bash
+go run cmd/rotate_list.go 
+```
+
+📜 *Sample Output*
+
+```bash
+4 5 1 2 3
+```
+
 🤝 **Contribution**
 
 We welcome contributions! If you’d like to enhance the repository, you can:
