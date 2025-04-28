@@ -1317,6 +1317,29 @@ go run cmd/set_matrix_zeros.go
 [[1 0 1] [0 0 0] [1 0 1]]
 ```
 
+🏗 **Search a 2D Matrix**
+
+You are given an m x n integer matrix matrix with the following two properties:
+
+Each row is sorted in non-decreasing order.
+The first integer of each row is greater than the last integer of the previous row.
+Given an integer target, return true if target is in matrix or false otherwise.
+
+You must write a solution in O(log(m * n)) time complexity.
+
+📌 *Example Execution*
+
+```bash
+go run cmd/search_a_2d_matrix.go
+```
+
+📜 *Sample Output*
+
+```bash
+true
+false
+```
+
 🤝 **Contribution**
 
 We welcome contributions! If you’d like to enhance the repository, you can:
