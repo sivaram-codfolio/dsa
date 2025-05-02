@@ -1360,6 +1360,24 @@ go run cmd/sort_colors.go
 [0 0 1 1 2 2]
 ```
 
+🏗 **Combinations**
+
+Given two integers n and k, return all possible combinations of k numbers chosen from the range [1, n].
+
+You may return the answer in any order.
+
+📌 *Example Execution*
+
+```bash
+go run cmd/combinations.go
+```
+
+📜 *Sample Output*
+
+```bash
+[[1 2] [1 3] [1 4] [2 3] [2 4] [3 4]]
+```
+
 🤝 **Contribution**
 
 We welcome contributions! If you’d like to enhance the repository, you can:
