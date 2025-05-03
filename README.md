@@ -1378,6 +1378,24 @@ go run cmd/combinations.go
 [[1 2] [1 3] [1 4] [2 3] [2 4] [3 4]]
 ```
 
+🏗 **Subsets**
+
+Given an integer array nums of unique elements, return all possible subsets (the power set).
+
+The solution set must not contain duplicate subsets. Return the solution in any order.
+
+📌 *Example Execution*
+
+```bash
+go run cmd/subsets.go
+```
+
+📜 *Sample Output*
+
+```bash
+[[] [1] [1 2] [1 2 3] [1 3] [2] [2 3] [3]]
+```
+
 🤝 **Contribution**
 
 We welcome contributions! If you’d like to enhance the repository, you can:
