@@ -1437,6 +1437,24 @@ go run cmd/remove_duplicates_from_sorted_array2.go
 [1 1 2 2 3]
 ```
 
+🏗 **Minimum Path Sum**
+
+Given a m x n grid filled with non-negative numbers, find a path from top left to bottom right, which minimizes the sum of all numbers along its path.
+
+Note: You can only move either down or right at any point in time.
+
+📌 *Example Execution*
+
+```bash
+go run cmd/minimum_path_sum.go
+```
+
+📜 *Sample Output*
+
+```bash
+7
+```
+
 🤝 **Contribution**
 
 We welcome contributions! If you’d like to enhance the repository, you can:
