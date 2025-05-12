@@ -1495,6 +1495,25 @@ Input: 226
 Number of ways to decode: 3
 ```
 
+🏗 **Reverse Linked List II**
+
+Given the head of a singly linked list and two integers left and right where left <= right, reverse the nodes of the list from position left to position right, and return the reversed list.
+
+📌 *Example Execution*
+
+```bash
+go run cmd/reverse_linked_list2.go
+```
+
+📜 *Sample Output*
+
+```bash
+Original list:
+1 2 3 4 5 
+Reversed from position 2 to 4:
+1 4 3 2 5 
+```
+
 🤝 **Contribution**
 
 We welcome contributions! If you’d like to enhance the repository, you can:
