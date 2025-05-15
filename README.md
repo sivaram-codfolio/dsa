@@ -1538,6 +1538,28 @@ Target: 0
 Target found in array.
 ```
 
+🏗 **Unique Binary Search Trees II**
+
+Given an integer n, return all the structurally unique BST's (binary search trees), which has exactly n nodes of unique values from 1 to n. Return the answer in any order.
+
+📌 *Example Execution*
+
+```bash
+go run cmd/unique_binary_search_trees2.go
+```
+
+📜 *Sample Output*
+
+```bash
+Generating all unique BSTs for n = 3
+Total trees generated: 5
+Tree 1: 1,nil,2,nil,3,nil,nil
+Tree 2: 1,nil,3,2,nil,nil,nil
+Tree 3: 2,1,nil,nil,3,nil,nil
+Tree 4: 3,1,nil,2,nil,nil,nil
+Tree 5: 3,2,1,nil,nil,nil,nil
+```
+
 🤝 **Contribution**
 
 We welcome contributions! If you’d like to enhance the repository, you can:
