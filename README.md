@@ -1560,6 +1560,23 @@ Tree 4: 3,1,nil,2,nil,nil,nil
 Tree 5: 3,2,1,nil,nil,nil,nil
 ```
 
+🏗 **Unique Binary Search Trees**
+
+Given an integer n, return the number of structurally unique BST's (binary search trees) which has exactly n nodes of unique values from 1 to n.
+
+📌 *Example Execution*
+
+```bash
+go run cmd/unique_binary_search_trees.go
+```
+
+📜 *Sample Output*
+
+```bash
+Input: 3
+Number of unique BSTs: 5
+```
+
 🤝 **Contribution**
 
 We welcome contributions! If you’d like to enhance the repository, you can:
