@@ -1604,6 +1604,29 @@ s3: aaxaby
 s3 is an interleaving of s1 and s2.
 ```
 
+🏗 **Validate Binary Search Tree**
+
+Given the root of a binary tree, determine if it is a valid binary search tree (BST).
+
+A valid BST is defined as follows:
+
+The left subtree of a node contains only nodes with keys less than the node's key.
+The right subtree of a node contains only nodes with keys greater than the node's key.
+Both the left and right subtrees must also be binary search trees.
+
+📌 *Example Execution*
+
+```bash
+go run cmd/validate_binary_search_tree.go
+```
+
+📜 *Sample Output*
+
+```bash
+Is the tree a valid BST?
+✅ Yes
+```
+
 🤝 **Contribution**
 
 We welcome contributions! If you’d like to enhance the repository, you can:
