@@ -1627,6 +1627,25 @@ Is the tree a valid BST?
 ✅ Yes
 ```
 
+🏗 **Recover Binary Search Tree**
+
+You are given the root of a binary search tree (BST), where the values of exactly two nodes of the tree were swapped by mistake. Recover the tree without changing its structure.
+
+📌 *Example Execution*
+
+```bash
+go run cmd/recover_binary_search_tree.go
+```
+
+📜 *Sample Output*
+
+```bash
+Inorder before recovery:
+1 3 2 4 
+Inorder after recovery:
+1 2 3 4 
+```
+
 🤝 **Contribution**
 
 We welcome contributions! If you’d like to enhance the repository, you can:
