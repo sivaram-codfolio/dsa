@@ -1646,6 +1646,23 @@ Inorder after recovery:
 1 2 3 4 
 ```
 
+🏗 **Symmetric Tree**
+
+Given the root of a binary tree, check whether it is a mirror of itself (i.e., symmetric around its center).
+
+📌 *Example Execution*
+
+```bash
+go run cmd/symmetric_tree.go
+```
+
+📜 *Sample Output*
+
+```bash
+Is the tree symmetric?
+✅ Yes
+```
+
 🤝 **Contribution**
 
 We welcome contributions! If you’d like to enhance the repository, you can:
