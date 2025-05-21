@@ -1663,6 +1663,25 @@ Is the tree symmetric?
 ✅ Yes
 ```
 
+🏗 **Binary Tree Level Order Traversal**
+
+Given the root of a binary tree, return the level order traversal of its nodes' values. (i.e., from left to right, level by level).
+
+📌 *Example Execution*
+
+```bash
+go run cmd/binary_tree_level_order_traversal.go
+```
+
+📜 *Sample Output*
+
+```bash
+Level order traversal:
+[3]
+[9 20]
+[15 7]
+```
+
 🤝 **Contribution**
 
 We welcome contributions! If you’d like to enhance the repository, you can:
