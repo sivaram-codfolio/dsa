@@ -1701,6 +1701,23 @@ Zigzag Level Order Traversal:
 [15 7]
 ```
 
+🏗 **Construct Binary Tree from Preorder and Inorder Traversal**
+
+Given two integer arrays preorder and inorder where preorder is the preorder traversal of a binary tree and inorder is the inorder traversal of the same tree, construct and return the binary tree.
+
+📌 *Example Execution*
+
+```bash
+go run cmd/construct_binary_tree_from_preorder_and_inorder_traversal.go
+```
+
+📜 *Sample Output*
+
+```bash
+Inorder of constructed tree:
+9 3 15 20 7 %  
+```
+
 🤝 **Contribution**
 
 We welcome contributions! If you’d like to enhance the repository, you can:
