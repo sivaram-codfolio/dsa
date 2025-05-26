@@ -1718,6 +1718,23 @@ Inorder of constructed tree:
 9 3 15 20 7 %  
 ```
 
+🏗 **Construct Binary Tree from Inorder and Postorder Traversal**
+
+Given two integer arrays inorder and postorder where inorder is the inorder traversal of a binary tree and postorder is the postorder traversal of the same tree, construct and return the binary tree.
+
+📌 *Example Execution*
+
+```bash
+go run cmd/construct_binary_tree_from_inorder_and_postorder_traversal.go
+```
+
+📜 *Sample Output*
+
+```bash
+Inorder of constructed tree:
+9 3 15 20 7 %  
+```
+
 🤝 **Contribution**
 
 We welcome contributions! If you’d like to enhance the repository, you can:
