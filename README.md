@@ -1735,6 +1735,25 @@ Inorder of constructed tree:
 9 3 15 20 7 %  
 ```
 
+🏗 **Binary Tree Level Order Traversal II**
+
+Given the root of a binary tree, return the bottom-up level order traversal of its nodes' values. (i.e., from left to right, level by level from leaf to root).
+
+📌 *Example Execution*
+
+```bash
+go run cmd/binary_tree_level_order_traversal2.go
+```
+
+📜 *Sample Output*
+
+```bash
+Bottom-up Level Order Traversal:
+[15 7]
+[9 20]
+[3]
+```
+
 🤝 **Contribution**
 
 We welcome contributions! If you’d like to enhance the repository, you can:
