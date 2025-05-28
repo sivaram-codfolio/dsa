@@ -1754,6 +1754,23 @@ Bottom-up Level Order Traversal:
 [3]
 ```
 
+🏗 **Convert Sorted Array to Binary Search Tree**
+
+Given an integer array nums where the elements are sorted in ascending order, convert it to a height-balanced binary search tree.
+
+📌 *Example Execution*
+
+```bash
+go run cmd/convert_sorted_array_to_binary_search_tree.go
+```
+
+📜 *Sample Output*
+
+```bash
+Inorder Traversal of BST:
+-10 -3 0 5 9 % 
+```
+
 🤝 **Contribution**
 
 We welcome contributions! If you’d like to enhance the repository, you can:
