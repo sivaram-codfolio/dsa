@@ -1771,6 +1771,24 @@ Inorder Traversal of BST:
 -10 -3 0 5 9 % 
 ```
 
+
+🏗 **Balanced Binary Tree**
+
+Given a binary tree, determine if it is height-balanced.
+
+📌 *Example Execution*
+
+```bash
+go run cmd/balanced_binary_tree.go
+```
+
+📜 *Sample Output*
+
+```bash
+Is the binary tree balanced?
+true
+```
+
 🤝 **Contribution**
 
 We welcome contributions! If you’d like to enhance the repository, you can:
