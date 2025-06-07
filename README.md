@@ -1771,7 +1771,6 @@ Inorder Traversal of BST:
 -10 -3 0 5 9 % 
 ```
 
-
 🏗 **Balanced Binary Tree**
 
 Given a binary tree, determine if it is height-balanced.
@@ -1787,6 +1786,27 @@ go run cmd/balanced_binary_tree.go
 ```bash
 Is the binary tree balanced?
 true
+```
+
+🏗 **Minimum Depth of Binary Tree**
+
+Given a binary tree, find its minimum depth.
+
+The minimum depth is the number of nodes along the shortest path from the root node down to the nearest leaf node.
+
+Note: A leaf is a node with no children.
+
+📌 *Example Execution*
+
+```bash
+go run cmd/minimum_depth_of_binary_tree.go
+```
+
+📜 *Sample Output*
+
+```bash
+Minimum depth of binary tree:
+2
 ```
 
 🤝 **Contribution**
