@@ -1827,6 +1827,25 @@ go run cmd/path_sum.go
 Does path sum 22 exist? true
 ```
 
+🏗 **Path Sum II**
+
+Given the root of a binary tree and an integer targetSum, return all root-to-leaf paths where the sum of the node values in the path equals targetSum. Each path should be returned as a list of the node values, not node references.
+
+A root-to-leaf path is a path starting from the root and ending at any leaf node. A leaf is a node with no children.
+
+📌 *Example Execution*
+
+```bash
+go run cmd/path_sum2.go
+```
+
+📜 *Sample Output*
+
+```bash
+All paths summing to 22:
+[[5 4 11 2]]
+```
+
 🤝 **Contribution**
 
 We welcome contributions! If you’d like to enhance the repository, you can:
