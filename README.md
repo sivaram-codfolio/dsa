@@ -1846,6 +1846,26 @@ All paths summing to 22:
 [[5 4 11 2]]
 ```
 
+🏗 **Flatten Binary Tree to Linked List**
+
+Given the root of a binary tree, flatten the tree into a "linked list":
+
+The "linked list" should use the same TreeNode class where the right child pointer points to the next node in the list and the left child pointer is always null.
+The "linked list" should be in the same order as a pre-order traversal of the binary tree.
+
+📌 *Example Execution*
+
+```bash
+go run cmd/flatten_binary_tree_to_linked_list.go
+```
+
+📜 *Sample Output*
+
+```bash
+Flattened tree in preorder:
+1 2 3 4 5 6 
+```
+
 🤝 **Contribution**
 
 We welcome contributions! If you’d like to enhance the repository, you can:
