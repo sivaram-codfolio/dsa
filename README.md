@@ -1866,6 +1866,24 @@ Flattened tree in preorder:
 1 2 3 4 5 6 
 ```
 
+🏗 **Distinct Subsequences**
+
+Given two strings s and t, return the number of distinct subsequences of s which equals t.
+
+The test cases are generated so that the answer fits on a 32-bit signed integer.
+
+📌 *Example Execution*
+
+```bash
+go run cmd/distinct_subsequences.go
+```
+
+📜 *Sample Output*
+
+```bash
+Number of distinct subsequences of "rabbbit" forming "rabbit": 3
+```
+
 🤝 **Contribution**
 
 We welcome contributions! If you’d like to enhance the repository, you can:
