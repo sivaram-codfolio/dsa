@@ -1884,6 +1884,35 @@ go run cmd/distinct_subsequences.go
 Number of distinct subsequences of "rabbbit" forming "rabbit": 3
 ```
 
+🏗 **Populating Next Right Pointers in Each Node**
+
+You are given a perfect binary tree where all leaves are on the same level, and every parent has two children. The binary tree has the following definition:
+
+struct Node {
+  int val;
+  Node *left;
+  Node *right;
+  Node *next;
+}
+Populate each next pointer to point to its next right node. If there is no next right node, the next pointer should be set to NULL.
+
+Initially, all next pointers are set to NULL.
+
+📌 *Example Execution*
+
+```bash
+go run cmd/populating_next_right_pointers_in_each_node.go
+```
+
+📜 *Sample Output*
+
+```bash
+Next pointers per level:
+1->nil 
+2->3 3->nil 
+4->5 5->6 6->7 7->nil 
+```
+
 🤝 **Contribution**
 
 We welcome contributions! If you’d like to enhance the repository, you can:
