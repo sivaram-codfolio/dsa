@@ -1913,6 +1913,35 @@ Next pointers per level:
 4->5 5->6 6->7 7->nil 
 ```
 
+🏗 **Populating Next Right Pointers in Each Node II**
+
+Given a binary tree
+
+struct Node {
+  int val;
+  Node *left;
+  Node *right;
+  Node *next;
+}
+Populate each next pointer to point to its next right node. If there is no next right node, the next pointer should be set to NULL.
+
+Initially, all next pointers are set to NULL.
+
+📌 *Example Execution*
+
+```bash
+go run cmd/populating_next_right_pointers_in_each_node2.go
+```
+
+📜 *Sample Output*
+
+```bash
+Next pointers per level:
+1->nil 
+2->3 3->nil 
+5->7 7->nil 
+```
+
 🤝 **Contribution**
 
 We welcome contributions! If you’d like to enhance the repository, you can:
