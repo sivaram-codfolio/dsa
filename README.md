@@ -1942,6 +1942,24 @@ Next pointers per level:
 5->7 7->nil 
 ```
 
+🏗 **Pascal's Triangle II**
+
+Given an integer rowIndex, return the rowIndexth (0-indexed) row of the Pascal's triangle.
+
+In Pascal's triangle, each number is the sum of the two numbers directly above it as shown:
+
+📌 *Example Execution*
+
+```bash
+go run cmd/pascal_triangle2.go
+```
+
+📜 *Sample Output*
+
+```bash
+Pascal's Triangle Row 3 : [1 3 3 1] 
+```
+
 🤝 **Contribution**
 
 We welcome contributions! If you’d like to enhance the repository, you can:
