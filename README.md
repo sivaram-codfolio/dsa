@@ -1960,6 +1960,24 @@ go run cmd/pascal_triangle2.go
 Pascal's Triangle Row 3 : [1 3 3 1] 
 ```
 
+🏗 **Triangle**
+
+Given a triangle array, return the minimum path sum from top to bottom.
+
+For each step, you may move to an adjacent number of the row below. More formally, if you are on index i on the current row, you may move to either index i or index i + 1 on the next row.
+
+📌 *Example Execution*
+
+```bash
+go run cmd/triangle.go
+```
+
+📜 *Sample Output*
+
+```bash
+Minimum Path Sum: 11
+```
+
 🤝 **Contribution**
 
 We welcome contributions! If you’d like to enhance the repository, you can:
