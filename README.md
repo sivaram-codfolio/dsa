@@ -1998,6 +1998,26 @@ go run cmd/best_time_to_buy_and_sell_stock.go
 Max Profit: 5
 ```
 
+🏗 **Best Time to Buy and Sell Stock II**
+
+You are given an array prices where prices[i] is the price of a given stock on the ith day.
+
+You want to maximize your profit by choosing a single day to buy one stock and choosing a different day in the future to sell that stock.
+
+Return the maximum profit you can achieve from this transaction. If you cannot achieve any profit, return 0.
+
+📌 *Example Execution*
+
+```bash
+go run cmd/best_time_to_buy_and_sell_stock2.go
+```
+
+📜 *Sample Output*
+
+```bash
+Max Profit: 7
+```
+
 🤝 **Contribution**
 
 We welcome contributions! If you’d like to enhance the repository, you can:
