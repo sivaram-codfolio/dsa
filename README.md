@@ -2018,6 +2018,26 @@ go run cmd/best_time_to_buy_and_sell_stock2.go
 Max Profit: 7
 ```
 
+🏗 **Best Time to Buy and Sell Stock III**
+
+You are given an array prices where prices[i] is the price of a given stock on the ith day.
+
+Find the maximum profit you can achieve. You may complete at most two transactions.
+
+Note: You may not engage in multiple transactions simultaneously (i.e., you must sell the stock before you buy again).
+
+📌 *Example Execution*
+
+```bash
+go run cmd/best_time_to_buy_and_sell_stock3.go
+```
+
+📜 *Sample Output*
+
+```bash
+Max Profit with at most 2 transactions: 6
+```
+
 🤝 **Contribution**
 
 We welcome contributions! If you’d like to enhance the repository, you can:
