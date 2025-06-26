@@ -2056,6 +2056,24 @@ go run cmd/valid_palindrome.go
 Is palindrome? true
 ```
 
+🏗 **Longest Consecutive Sequence**
+
+Given an unsorted array of integers nums, return the length of the longest consecutive elements sequence.
+
+You must write an algorithm that runs in O(n) time.
+
+📌 *Example Execution*
+
+```bash
+go run cmd/longest_consecutive_sequence.go
+```
+
+📜 *Sample Output*
+
+```bash
+Longest Consecutive Sequence Length: 4
+```
+
 🤝 **Contribution**
 
 We welcome contributions! If you’d like to enhance the repository, you can:
