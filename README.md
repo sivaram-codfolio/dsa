@@ -2128,6 +2128,24 @@ XXXX
 XOXX
 ```
 
+🏗 ** Palindrome Partitioning**
+
+Given a string s, partition s such that every substring of the partition is a palindrome. Return all possible palindrome partitioning of s.
+
+📌 *Example Execution*
+
+```bash
+go run cmd/palindrome_partitioning.go
+```
+
+📜 *Sample Output*
+
+```bash
+Palindrome partitions of aab :
+[a a b]
+[aa b]
+```
+
 🤝 **Contribution**
 
 We welcome contributions! If you’d like to enhance the repository, you can:
