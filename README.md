@@ -2128,7 +2128,7 @@ XXXX
 XOXX
 ```
 
-🏗 ** Palindrome Partitioning**
+🏗 **Palindrome Partitioning**
 
 Given a string s, partition s such that every substring of the partition is a palindrome. Return all possible palindrome partitioning of s.
 
@@ -2144,6 +2144,24 @@ go run cmd/palindrome_partitioning.go
 Palindrome partitions of aab :
 [a a b]
 [aa b]
+```
+
+🏗 **Palindrome Partitioning II**
+
+Given a string s, partition s such that every substring of the partition is a palindrome.
+
+Return the minimum cuts needed for a palindrome partitioning of s.
+
+📌 *Example Execution*
+
+```bash
+go run cmd/palindrome_partitioning2.go
+```
+
+📜 *Sample Output*
+
+```bash
+Minimum cuts needed for palindrome partitioning of aab : 1
 ```
 
 🤝 **Contribution**
