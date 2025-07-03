@@ -2192,6 +2192,24 @@ Node 3: 2 4
 Node 4: 1 3 
 ```
 
+🏗 **Single Number**
+
+Given a non-empty array of integers nums, every element appears twice except for one. Find that single one.
+
+You must implement a solution with a linear runtime complexity and use only constant extra space.
+
+📌 *Example Execution*
+
+```bash
+go run cmd/single_number.go
+```
+
+📜 *Sample Output*
+
+```bash
+Single number is: 4 
+```
+
 🤝 **Contribution**
 
 We welcome contributions! If you’d like to enhance the repository, you can:
