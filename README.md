@@ -2210,6 +2210,24 @@ go run cmd/single_number.go
 Single number is: 4 
 ```
 
+🏗 **Single Number II**
+
+Given an integer array nums where every element appears three times except for one, which appears exactly once. Find the single element and return it.
+
+You must implement a solution with a linear runtime complexity and use only constant extra space.
+
+📌 *Example Execution*
+
+```bash
+go run cmd/single_number2.go
+```
+
+📜 *Sample Output*
+
+```bash
+Single Number: 3
+```
+
 🤝 **Contribution**
 
 We welcome contributions! If you’d like to enhance the repository, you can:
