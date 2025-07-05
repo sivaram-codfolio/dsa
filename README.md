@@ -2228,6 +2228,25 @@ go run cmd/single_number2.go
 Single Number: 3
 ```
 
+🏗 **Copy List with Random Pointer**
+
+A linked list of length n is given such that each node contains an additional random pointer, which could point to any node in the list, or null.
+
+📌 *Example Execution*
+
+```bash
+go run cmd/copy_list_with_random_pointer.go
+```
+
+📜 *Sample Output*
+
+```bash
+Original list:
+Node{Val: 1, Random: 2} -> Node{Val: 2, Random: 2} -> nil
+Copied list:
+Node{Val: 1, Random: 2} -> Node{Val: 2, Random: 2} -> nil
+```
+
 🤝 **Contribution**
 
 We welcome contributions! If you’d like to enhance the repository, you can:
