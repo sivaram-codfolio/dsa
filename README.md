@@ -2265,6 +2265,26 @@ go run cmd/word_break.go
 Can be segmented: true
 ```
 
+🏗 **Word Break II**
+
+Given a string s and a dictionary of strings wordDict, add spaces in s to construct a sentence where each word is a valid dictionary word. Return all such possible sentences in any order.
+
+Note that the same word in the dictionary may be reused multiple times in the segmentation.
+
+📌 *Example Execution*
+
+```bash
+go run cmd/word_break2.go
+```
+
+📜 *Sample Output*
+
+```bash
+All possible sentences:
+cat sand dog
+cats and dog
+```
+
 🤝 **Contribution**
 
 We welcome contributions! If you’d like to enhance the repository, you can:
