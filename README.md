@@ -1,4 +1,4 @@
-# Data Structures and Algorithms (DSA) in Go
+# Data Structures and Algorithm (DSA) in Go
 
 A collection of data structures and algorithms implemented in Go. This repository serves as a reference for developers looking to understand and apply DSA concepts effectively in Go projects.
 
