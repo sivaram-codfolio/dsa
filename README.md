@@ -2345,6 +2345,22 @@ go run cmd/linked_list_cycle2.go
 Cycle starts at node with value: 2
 ```
 
+🏗 **Binary Tree Preorder Traversal**
+
+Given the root of a binary tree, return the preorder traversal of its nodes' values.
+
+📌 *Example Execution*
+
+```bash
+go run cmd/binary_tree_preorder_traversal.go
+```
+
+📜 *Sample Output*
+
+```bash
+Preorder Traversal: [1 2 3]
+```
+
 🤝 **Contribution**
 
 We welcome contributions! If you’d like to enhance the repository, you can:
