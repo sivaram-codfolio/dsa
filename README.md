@@ -2361,6 +2361,22 @@ go run cmd/binary_tree_preorder_traversal.go
 Preorder Traversal: [1 2 3]
 ```
 
+🏗 **Binary Tree Postorder Traversal**
+
+Given the root of a binary tree, return the postorder traversal of its nodes' values.
+
+📌 *Example Execution*
+
+```bash
+go run cmd/binary_tree_postorder_traversal.go
+```
+
+📜 *Sample Output*
+
+```bash
+Postorder Traversal: [3 2 1]
+```
+
 🤝 **Contribution**
 
 We welcome contributions! If you’d like to enhance the repository, you can:
