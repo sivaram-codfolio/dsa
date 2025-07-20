@@ -2399,6 +2399,24 @@ go run cmd/find_peak_element.go
 Peak element index: 5 Value: 6
 ```
 
+🏗 **Maximum Gap**
+
+Given an integer array nums, return the maximum difference between two successive elements in its sorted form. If the array contains less than two elements, return 0.
+
+You must write an algorithm that runs in linear time and uses linear extra space.
+
+📌 *Example Execution*
+
+```bash
+go run cmd/maximum_gap.go
+```
+
+📜 *Sample Output*
+
+```bash
+Maximum Gap: 3
+```
+
 🤝 **Contribution**
 
 We welcome contributions! If you’d like to enhance the repository, you can:
