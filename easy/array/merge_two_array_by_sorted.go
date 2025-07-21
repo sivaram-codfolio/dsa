@@ -24,5 +24,6 @@ func merge(arr1, arr2 []int) []int {
 func main() {
 	arr1 := []int{1, 3, 5}
 	arr2 := []int{2, 4, 6}
-	fmt.Println("Merge two array by sorted :: ", merge(arr1, arr2))
+	result := merge(arr1, arr2)
+	fmt.Println("Result :: ", result)
 }
