@@ -2417,6 +2417,27 @@ go run cmd/maximum_gap.go
 Maximum Gap: 3
 ```
 
+🏗 **Excel Sheet Column Number**
+
+Given a string columnTitle that represents the column title as appears in an Excel sheet, return its corresponding column number.
+
+📌 *Example Execution*
+
+```bash
+go run cmd/excel_sheet_column_number.go
+```
+
+📜 *Sample Output*
+
+```bash
+1
+26
+27
+28
+701
+2147483647
+```
+
 🤝 **Contribution**
 
 We welcome contributions! If you’d like to enhance the repository, you can:
